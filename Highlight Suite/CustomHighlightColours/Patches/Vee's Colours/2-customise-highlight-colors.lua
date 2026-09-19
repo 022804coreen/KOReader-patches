@@ -30,18 +30,17 @@ local custom_colors = {
     -- You can have as many or as little lines as you like
     -- ID's can have any value
     -- Colours will show in the order you place them here
-    {"red", "Spicy", "#F0A2A2"},
-    {"orange", "Weird", "#F7C49C"},
-    {"yellow", "Interesting", "#FBEC8B"},
-    {"olive", "Character", "#AFE8A8"},
-    {"green", "Hate", "#86cc7c"},
+    {"red", "WTF", "#F0A2A2"},
+    {"yellow", "Character", "#FBEC8B"},
+    {"olive", "Emotional", "#AFE8A8"},
+    {"green", "Spicy", "#86cc7c"},
     {"turquoise", "Funny", "#66DCC0"},
-    {"cyan", "Artistic", "#7FE7FE"},
-    {"blue", "Deep", "#86B6F0"},
-    {"indigo", "Special", "#807DE7"},
-    {"purple", "General", "#C59CFF"},
-    {"pink", "Love", "#FFBEF7"},
-    {"grey", "Grey", "#CECECE"}
+    {"cyan", "Hear Me Out", "#7FE7FE"},
+    {"blue", "Sad", "#86B6F0"},
+    {"indigo", "Deep", "#807DE7"},
+    {"purple", "Sana All", "#C59CFF"},
+    {"pink", "Kilig", "#FFBEF7"},
+    {"grey", "Heartbreak", "#CECECE"}
 }
 
 ---------------------------------------------------------------------------------------------------
