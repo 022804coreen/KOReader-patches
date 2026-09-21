@@ -72,12 +72,18 @@ local change_set_for_underline = true
 -- underline options (optional)
 local underline_colors = {
     -- {"Name", "id"}
-    {"Characters", "purple"},
-    {"Deities", "red"},
-    {"Animals", "yellow"},
-    {"References", "green"},
-    {"Mentions", "grey"},
-    {"Other", "cyan"}
+    {"Sana all", "purple"},
+    {"WTF", "red"},
+    {"Character", "yellow"},
+    {"Spicy", "green"},
+    {"Heartbreak", "grey"},
+    {"Hear me out", "cyan"}
+    {"Kilig", "pink"},
+    {"Sad", "blue"},
+    {"Funny", "turquoise"},
+    {"Deep", "indigo"},
+    {"Aww","olive"},
+    {"Favorite", "orange"}
 }
 ---------------------------------------------------------------------------------------------------
 -- 🔧 INTERNAL CODE - YOU DON'T NEED TO EDIT BELOW THIS LINE
